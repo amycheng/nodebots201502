@@ -10,9 +10,11 @@
 	- wasn’t sure which power supply I needed (just realized I was bad at reading comprehension)
 
 ## Arduino vs FadeCandy 
+
 ### Arduino
 - define pin
 - turn pin on and off
+
 ### FadeCandy
 - start the Fade Candy server
 - initialize open pixel control 
